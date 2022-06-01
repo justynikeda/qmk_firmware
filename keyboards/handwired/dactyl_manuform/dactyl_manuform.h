@@ -26,6 +26,8 @@
 #    include "3x5_3.h"
 #elif defined(KEYBOARD_handwired_dactyl_manuform_dmote_62key)
 #    include "62key.h"
+#elif defined(KEYBOARD_handwired_dactyl_manuform_glitz)
+#    include "glitz.h"
 #endif
 
 #include "quantum.h"
