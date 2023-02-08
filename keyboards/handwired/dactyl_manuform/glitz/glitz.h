@@ -4,7 +4,7 @@
 
 #define XXX KC_NO
 
-#define LAYOUT_GLITZ( \
+#define LAYOUT( \
   L11, L12, L13, L14, L15, L16,                          R11, R12, R13, R14, R15, R16, \
   L21, L22, L23, L24, L25, L26,                          R21, R22, R23, R24, R25, R26, \
   L31, L32, L33, L34, L35, L36,                          R31, R32, R33, R34, R35, R36, \
